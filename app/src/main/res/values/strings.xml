@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Anggoras</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="Food">FOOD</string>
+    <string name="Discount">DICOUNT</string>
+    <string name="Place">PLACE</string>
+    <string name="Profil">PROFIL</string>
+    <string name="Troli">TROLI</string>
+
+
+    <string name="slide_1_title">Anggoras</string>
+    <string name="slide_1_desc">Anggoras is a family restaurant for animal lovers and a place that leads to natural beauty</string>
+
+    <string name="slide_2_title">Food!</string>
+    <string name="slide_2_desc">food that is full of delicacy and wrapped with beauty and elegant and natural taste</string>
+
+    <string name="slide_3_title">Place!!</string>
+    <string name="slide_3_desc"> A beautiful place full of harmony in every sight that spoil the eyes</string>
+
+    <string name="slide_4_title">Diskon!!!</string>
+    <string name="slide_4_desc">many special discounts are waiting for you</string>
+
+    <string name="place1">Natural Gras</string>
+    <string name="wass">You can relax and holiday with your family</string>
+
+    <string name="place2">Natural Hunt</string>
+    <string name="wass1">You Can Relax with simple Holiday</string>
+
+    <string name="place3">Natural Boat</string>
+    <string name="wass2">You Can Find more Experience with Boat at river</string>
+
+    <string name="place4">Drea Hunt</string>
+    <string name="wass3">You Can Relax right in front of the River</string>
+
+</resources>
